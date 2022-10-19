@@ -1,0 +1,8 @@
+{
+  "name": "Gradience Auxiliary",
+  "description": "Extension for Gradience that improve the theming experience",
+  "uuid": "GradienceTeam@proton.me",
+  "shell-version": [
+    "42"
+  ]
+}
